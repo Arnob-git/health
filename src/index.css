@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.name{
+  color: darkgray;
+}
+.simp-space{
+  width: 98%;
+  margin: 0 auto !important;
+}
+.top-story{
+  background-color: azure;
+}
+.top-space{
+  margin-top: 100px !important;
+}
+.footer{
+  background-color:rgba(0, 0, 0, 0.7)
+}
+.menu_active{
+  font-weight: bolder;
+  border-bottom: 1px solid grey;
+ }
+ .login-form{
+   max-width: 500px !important;
+ }
+ .doctors{
+   background-color: rgba(99, 192, 138, 0.52);
+ }

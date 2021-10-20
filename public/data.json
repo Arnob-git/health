@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Allergies",
+        "simpleDescription": "In rare cases, an allergy can lead to a severe allergic reaction, called anaphylaxis or anaphylactic shock, which can be life threatening.",
+        "description": "Allergy symptoms include itchy eyes and skin, sneezing, nasal congestion, wheezing, and rash. Seasonal allergies result from grass, weed, tree pollen, or molds. Cat and dog dander allergies are common. Food allergies include peanut or milk. It's what happens when your immune system reacts to something that’s usually harmless. Those triggers, which doctors call can include pollen, mold, and animal dander, certain foods, or things that irritate your skin. Allergies are very common. At least 1 in 5 Americans has one.",
+        "image": "images/allargy.jpg"
+    },
+    {
+        "name": "Corona Virus",
+        "simpleDescription": "COVID-19 has changed how we manage our health. In spite of all the challenges, there are a lot of positive lessons we can take from this experience.",
+        "description":"A coronavirus is a kind of common virus that causes an infection in your nose, sinuses, or upper throat. Most coronaviruses aren't dangerous. In early 2020, after a December 2019 outbreak in China, the World Health Organization identified SARS-CoV-2 as a new type of coronavirus. The outbreak quickly spread around the world. COVID-19 is a disease caused by SARS-CoV-2 that can trigger what doctors call a respiratory tract infection. It can affect your upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs). It spreads the same way other coronaviruses do, mainly through person-to-person contact. Infections range from mild to deadly. SARS-CoV-2 is one of seven types of coronavirus, including the ones that cause severe diseases like Middle East respiratory syndrome (MERS) and sudden acute respiratory syndrome (SARS). The other coronaviruses cause most of the colds that affect us during the year but aren’t a serious threat for otherwise healthy people. ",
+        "image": "images/covid.jpg"
+    },
+    {
+        "name": "Depression",
+        "simpleDescription": "In some cases, exercise can be as effective as a drug. How does breaking a sweat improve your mood?",
+        "description": "Have you ever wondered what causes clinical depression? Perhaps you have been diagnosed with major depression, and that's made you question why some people get depressed but others don't. Depression is a complex disease. No one knows exactly what causes it, but it can happen for a variety of reasons. Some people have depression during a serious medical illness. Others may have depression with life changes such as a move or the death of a loved one. Still others have a family history of depression. Those who do may have depression and feel overwhelmed with sadness and loneliness for no known reason.",
+        "image": "images/depressed.jpg"
+    },
+    {
+        "name": "Eye Health",
+        "simpleDescription": "Regular eye exams reveal vision problems like nearsightedness, farsightedness, presbyopia, and astigmatism.",
+        "description":"Most people have eye problems at one time or another. Some are minor and will go away on their own, or are easy to treat at home. Others need a specialist’s care. Whether your vision isn’t what it used to be, or never was that great, there are things you can do to get your eye health back on track. See if any of these common problems sound familiar. And always check with a doctor if your symptoms are really bad or don’t clear up within a few days.",
+        "image": "images/eye.jpg"
+    },
+    {
+        "name": "Pain Management",
+        "simpleDescription": "Pain management is important for ongoing pain control, especially if you suffer with long-term or chronic pain.",
+        "description":"oint pain can range from mildly irritating to debilitating. It may go away after a few weeks (acute), or last for several weeks or months (chronic). Even short-term pain and swelling in the joints can affect your quality of life. Whatever the cause of joint pain, you can usually manage it with medication, physical therapy, or alternative treatments. Your doctor will first try to diagnose and treat the condition that is causing your joint pain. The goal is to reduce pain and inflammation and preserve joint function. Treatment options include:",
+        "image": "images/pain.jpg"
+    },
+    {
+        "name": "Skin Problem",
+        "simpleDescription": "Good treatments are available for a variety of skin conditions, including rash, itchy skin, skin fungus or infection, skin bumps or skin tags.",
+        "description": "This fungus is related more closely to the mold on stale bread or the yeast used to brew beer than to bacteria that usually cause infections. The mold is found on rose thorns, hay, sphagnum moss, twigs, and soil. Therefore, the infection is more common among gardeners who work with roses, moss, hay, and soil.",
+        "image": "images/skin.jpg"
+    },
+    {
+        "name": "Sleep Disorders",
+        "simpleDescription": "Good sleep is necessary for optimal health and can affect hormone levels, mood and weight.",
+        "description": "Night terrors in children are distinctly different from the much more common nightmares. Night terror symptoms are frequent and recurrent episodes of intense crying and fear during sleep, with difficulty arousing the child. When you wake up terrified from a disturbing nightmare, you might think you're the only adult who has them. After all, aren't adults supposed to outgrow nightmares?",
+        "image": "images/sleep.jpg"
+    },
+    {
+        "name": "Food and Fitness",
+        "simpleDescription": "A nutritionist shares foods that seem to promote a longer lifespan.",
+        "description": "Every 5 years, the government comes out with recommendations for how we should eat called the Dietary Guidelines for Americans. Even if the average person doesn’t follow them to a letter, what they say really matters. The Guidelines help shape policies and programs that affect millions of people and even influence the food industry. The newest edition includes familiar advice about eating a diet rich in fruit, vegetables, lean meats, and whole grains. But it’s actually what the Guidelines left out that you should know about.",
+        "image": "images/food.jpg"
+    },
+    {
+        "name": "Mental Health",
+        "simpleDescription": "It felt like putting on glasses for the first time. That is how one of my patients recently described the experience of being on medication.",
+        "description": "Taking medication is a big step for many people and certainly comes with its share of hesitation. One of the most common discussions I have daily revolves around the misconceptions about psychiatric medications. It is healthy to want to be an informed patient and to have your questions answered by a trusted professional. Not everyone who struggles with depression or anxiety needs to be on medication, but for the folks that do, it can literally be lifesaving. Medication does not change your personhood or personality. When we struggle with symptoms of depression or anxiety for many years, it can often feel like it has become a part of our very being since it is all we know. But beneath those symptoms are our real selves. The things we love, our hopes, dreams, and goals are not altered by medication.",
+        "image": "images/mental.jpg"
+    }
+]
